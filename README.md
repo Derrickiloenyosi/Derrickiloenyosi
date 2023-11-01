@@ -1,4 +1,4 @@
-<h1>Hi, I'm Derrick, an <a href="https://linkedin.com/in/Derrickiloenyosi">IT Professional</a>☺</h1>
+<h1>Hi, I'm Derrick, an <a href="https://linkedin.com/in/Derrick-iloenyosi">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
