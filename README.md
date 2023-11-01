@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/derrickiloni
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.instagram.com/derrickiloenyosi
 [linkedin]: https://linkedin.com/in/derrick-iloenyosi-041675288
