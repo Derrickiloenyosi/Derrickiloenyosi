@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Derrickiloenyosi/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Derrickiloenyosi/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derrickiloenyosi/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derrickiloenyosi/active-directory)
   -  [DNS](https://github.com/Derrickiloenyosi/DNS)
   
 - <b>Remote Desktop</b>
