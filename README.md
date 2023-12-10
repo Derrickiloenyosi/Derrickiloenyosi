@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Derrickiloenyosi/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derrickiloenyosi/configure-ad)
-  -  [DNS](https://github.com/Derrickiloenyosi/configure-ad)
+  -  [DNS](https://github.com/Derrickiloenyosi/DNS)
   
 - <b>Remote Desktop</b>
   - [Network File Sharing and granting permissions to employees](https://github.com/Derrickiloenyosi/azure-network-protocols)
