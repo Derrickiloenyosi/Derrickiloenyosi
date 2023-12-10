@@ -10,7 +10,7 @@
   -  [DNS](https://github.com/Derrickiloenyosi/DNS)
   
 - <b>Remote Desktop</b>
-  - [Network File Sharing and granting permissions to employees](https://github.com/Derrickiloenyosi/azure-network-protocols)
+  - [Network File Sharing and granting permissions to employees](https://github.com/Derrickiloenyosi/networkfilesharing_employeeaccess)
     
 <h2>Connect with me:</h2>
 
