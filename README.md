@@ -3,15 +3,15 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/Derrickiloenyosi/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Derrickiloenyosi/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Derrickiloenyosi/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  -  [DNS](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derrickiloenyosi/configure-ad)
+  -  [DNS](https://github.com/Derrickiloenyosi/configure-ad)
   
 - <b>Remote Desktop</b>
-  - [Network File Sharing and granting permissions to employees](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network File Sharing and granting permissions to employees](https://github.com/Derrickiloenyosi/azure-network-protocols)
     
 <h2>Connect with me:</h2>
 
